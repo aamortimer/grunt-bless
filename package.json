@@ -1,7 +1,7 @@
 {
   "name": "grunt-bless",
   "description": "Split CSS files suitable for IE",
-  "version": "1.0.6",
+  "version": "1.0.2",
   "homepage": "https://github.com/aamortimer/grunt-bless",
   "author": {
     "name": "Andy Mortimer",
