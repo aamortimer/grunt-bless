@@ -4,19 +4,9 @@
   "version": "1.0.6",
   "homepage": "https://github.com/aamortimer/grunt-bless",
   "author": {
-    "name": "Aki Alexandra Nofftz",
-    "email": "aki@nofftz.name"
+    "name": "Andy Mortimer",
+    "email": "aamortimer@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Aaron Spaulding",
-      "email": "aaron@sachimp.com"
-    },
-    {
-      "name": "Andy Flynn",
-      "email": "andy@andybflynn.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/aamortimer/grunt-bless"
